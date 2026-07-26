@@ -65,6 +65,20 @@ The application predicts whether the patient is:
 
 ---
 
+## 🌐 Live Demo
+
+🔗 *Streamlit App:*
+
+https://diabetespredictionproject-ymvxk5v6cpqhtg92hgzgav.streamlit.app
+
+---
+
+## 📌 GitHub Repository
+
+https://github.com/kadambari-vare11/Diabetes_Prediction_Project
+
+---
+
 ## 👩‍💻 Author
 
 *Kadambari Vare*
